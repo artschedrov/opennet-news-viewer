@@ -1,0 +1,20 @@
+{
+  "name": "opennet-news-viewer",
+  "version": "0.0.5",
+  "description": "viewer for opennet.ru",
+  "main": "./lib/news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "open-news": "./bin/index.js"
+  },
+  "author": "Kusarigama",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "needle": "2.8.0",
+    "node-html-parser": "^5.0.0",
+    "open": "^8.3.0",
+    "prompts": "2.4.1"
+  }
+}
