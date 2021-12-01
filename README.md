@@ -9,3 +9,5 @@ CLI tool for opennet.ru news
 
 ## Run
 `open-news`
+
+![Screenshot](screenshot.png)
