@@ -1,8 +1,10 @@
 # opennet-news-viewer
 
+CLI tool for opennet.ru news
+
 ## Install
-`npm i -g https://gitlab.com/kusarigama/opennet-news-viewer`
+`git clone https://github.com/artschedrov/opennet-news-viewer.git`
+`npm i -g opennet-news-viewer-0.0.5.tgz`
 
 ## Run
-
 `open-news`
